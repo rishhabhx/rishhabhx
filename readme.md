@@ -30,7 +30,7 @@ class Rishabh:
         ]
         self.passions = {
             "technical": ["RAG Systems", "Agentic AI", "Generative AI", "Machine Learning", "Linux", "System Architecture", "Cloud Computing", "Automations"],
-            "automotive": ["Cricket", "Test Cricket", "And More"],
+            "sports": ["Cricket", "Test Cricket", "And More"],
             "personal": ["Travel", "Technical Writing", "Problem Solving", "Documentations"]
         }
 
