@@ -25,7 +25,7 @@ class Rishabh:
             "RAG Systems",
             "GenAI Projects",
             "Agentic AI Projects",
-            "Machine learning and deep learning projects",
+            "Machine learning and Deep learning projects",
             "aws cloud"
         ]
         self.passions = {
